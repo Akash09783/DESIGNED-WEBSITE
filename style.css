@@ -24,3 +24,67 @@ nav{
     align-items: center;
     z-index: 10;
 }
+nav img{
+    width: 180px;
+}
+
+nav ul{
+    flex:1;
+    text-align: center;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px 15px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+.text-box{
+    margin-top: 18%;
+    max-width: 600px;
+}
+
+.text-box h1{
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.text-box p{
+    line-height: 28px;
+}
+.text-box button{
+    padding: 20px 40px;
+    background: #fff;
+    border: 0;
+    outline: 0;
+    margin-top: 40px;
+    margin-right: 10px;
+    border-radius: 50px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.text-box button:last-child{
+    background: #5957;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
